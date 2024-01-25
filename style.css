@@ -14,7 +14,10 @@ body{
     padding: 2rem;
     border-radius: 1rem;
     height: 45vh;
-    width: 40vh;
+    width: 25vw;
+}
+form .amount{
+    margin-top: 1rem;
 }
 form input, select, button{
     width: 100%;
