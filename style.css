@@ -25,6 +25,14 @@ form input, select, button{
     outline: none;
     border-radius: 1rem;
 }
+@media (max-width:500px) {
+    form h1{
+        font-size: 1.5rem;
+    }
+    form .amount{
+        margin-top: 1rem;
+    }
+}
 form input{
     border: 1px solid rgb(141, 133, 133);
     font-size: 1rem;
